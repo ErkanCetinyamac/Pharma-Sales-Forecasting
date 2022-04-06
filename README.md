@@ -1,6 +1,6 @@
 # Pharma-Sales-Forecasting
 
-![alt text](https://i.im.ge/2021/09/11/TQ9Pvp.png)
+![alt text](https://cdn-images-1.medium.com/max/184/1*eE2Ae0oO4_NAzGlo33iFbw@2x.png)
 
 ## Patika.Dev &amp; VitrA Data Science BootCamp Graduation Project
 
